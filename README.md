@@ -1,5 +1,5 @@
 
-### Hi there 👋, <p align="center">Hi,I'm Rashedul</p>
+### <p align="center">Hi👋,I'm Rashedul</p>
 #### <p align="center">CSE Graduate</p>
 
 
