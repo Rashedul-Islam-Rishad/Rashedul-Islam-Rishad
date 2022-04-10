@@ -1,5 +1,5 @@
-![CSE Graduate](https://scontent.fdac20-1.fna.fbcdn.net/v/t31.18172-8/26952398_1679128575483058_8560387341349326838_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeHRPEtiFIptIOut61rcvfRAa4e7RAxwxWFrh7tEDHDFYYJXhM9sEqAgeZqi35EuID_wYl7EN6SITDqc4xMe-fjD&_nc_ohc=XinXJCJskaoAX-VcWZQ&_nc_ht=scontent.fdac20-1.fna&oh=00_AT8trSn1hV0XT7GYTNIAE4G0r6g6xEmsWM44VJqud7ABCg&oe=6278B0D8)
-### Hi there 👋, I'm Rashedul
+
+# Hi there 👋, I'm Rashedul
 #### CSE Graduate
 
 
