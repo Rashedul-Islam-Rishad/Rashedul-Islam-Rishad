@@ -1,6 +1,6 @@
 
-                      # Hi there 👋, I'm Rashedul
-                      #### CSE Graduate
+### Hi there 👋, <p align="center">Hi,I'm Rashedul</p>
+#### <p align="center">CSE Graduate</p>
 
 
 I have done my B.Sc in Computer Science and Engineering from Daffodil International University.In my academic career i have done my Final Year Research Base Project Using machine learning algorithms in Python titled as "Social Media Trend Analysis on Covid-19 Vaccination Process".I always believe in hard work.I think only the hard work can bring success to anyone's life.Sometimes i may quit thinking that it's enough! But after that i again start trying after thinking the sweet result of that SUCCESS!I am very much passionate about photography.Sometimes i think that how beautiful life a photographer leads while coding ! I'm also a good food lover,i can eat almost a day long!Beside all of these i know i've to improve myself that's why i'm trying my best.Hope you'll keep me in your prayers.Thank You.
